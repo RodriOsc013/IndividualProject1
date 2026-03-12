@@ -1,1 +1,1 @@
-# Ex2
+# Individual Project 1
